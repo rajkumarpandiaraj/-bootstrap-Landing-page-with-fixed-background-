@@ -1,0 +1,14 @@
+.bg-nav{
+    background-color: rgb(13, 58, 88);
+}
+.bg-showcase1{
+    background: url('../img/mountains.jpeg') no-repeat center / cover;
+    /* background-color: red; */
+    height: 90vh ;
+    background-attachment: fixed;
+}
+.bg-showcase4{
+    height: 500px;
+    background: url('../img/background.jpg') no-repeat center center / cover;
+    background-attachment: fixed;
+}
